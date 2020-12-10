@@ -376,10 +376,6 @@ html, body {
 	#contact h1 {
 		font-size: 2em;
 	}
-
-	#contact a {
-		font-size: 3em;
-	}
 }
 
 #contact ul:hover {
